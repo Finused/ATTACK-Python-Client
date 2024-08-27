@@ -34,7 +34,7 @@ from attackcti.utils.storage import STIXStore
 # os.environ['https_proxy'] = "https://xxxxxxx"
 
 ATTACK_STIX_COLLECTIONS = "https://attack-taxii.mitre.org/stix/collections/"
-ENTERPRISE_ATTACK = "4c936680-22bc-4e68-8037-ca7670493eef"
+ENTERPRISE_ATTACK = "1f5f1533-f617-4ca8-9ab4-6a02367fa019"
 MOBILE_ATTACK = "c7beaddb-f5a0-4602-bbb5-3383c1448de9"
 ICS_ATTACK = "90c00720-636b-4485-b342-8751d232bf09"
 
