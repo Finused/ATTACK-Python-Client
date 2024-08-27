@@ -34,9 +34,9 @@ from attackcti.utils.storage import STIXStore
 # os.environ['https_proxy'] = "https://xxxxxxx"
 
 ATTACK_STIX_COLLECTIONS = "https://attack-taxii.mitre.org/stix/collections/"
-ENTERPRISE_ATTACK = "95ecc380-afe9-11e4-9b6c-751b66dd541e"
-MOBILE_ATTACK = "2f669986-b40b-4423-b720-4396ca6a462b"
-ICS_ATTACK = "02c3ef24-9cd4-48f3-a99f-b74ce24f1d34"
+ENTERPRISE_ATTACK = "4c936680-22bc-4e68-8037-ca7670493eef"
+MOBILE_ATTACK = "c7beaddb-f5a0-4602-bbb5-3383c1448de9"
+ICS_ATTACK = "90c00720-636b-4485-b342-8751d232bf09"
 
 class attack_client:
     """A Python Module for accessing ATT&CK data locally or remotely."""
